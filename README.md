@@ -10,8 +10,6 @@ _Proyecto programado con PHP POO y utilizando diferentes plugins en especial PHP
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Samir Vergara**
 * **Brenda Vega**
 * **Adrian Cerpa**
@@ -27,4 +25,4 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (MIT License) - mira el archivo [LICENSE.md](LICENSE.md)
+Este proyecto está bajo la Licencia (MIT License) - mira el archivo [LICENSE](LICENSE)
