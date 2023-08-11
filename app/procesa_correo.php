@@ -17,7 +17,7 @@ Class enviarMail {
             return false;
         }
 
-        $cc = 'samirantoniovergaravergara@gmail.com';       
+        $cc = 'correo asociado al CC';  //Correo CC para copia del cuerpo enviado     
         $suj = 'Taller Formulario y Correo Electronico';
         $data = $this->prepare_mail($nombres, $cell, $mail, $sms);
         $resp=sent_mail($mail,$cc,$suj,$data);            
