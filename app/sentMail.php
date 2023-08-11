@@ -30,7 +30,7 @@ function sent_mail($addres,$cc,$suj,$data){
         );
 
         //Recipients
-        $mail->setFrom('aplicacionactivosfijos4@gmail.com', 'Activos Fijos');
+        $mail->setFrom('correo de recepcion', 'Nombre en corto');
         $mail->addAddress($addres, $suj);     // Add a recipient
         //$mail->addCC($cc);
         // Content
